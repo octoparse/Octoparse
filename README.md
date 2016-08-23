@@ -2,11 +2,11 @@
 
 Octoparse -- A free client-side Windows web scraping software that turns unstructured or semi-structured data from websites into a structured Dataset without coding. 
 
-### [Website](http://www.octoparse.com/)&nbsp;&nbsp;&nbsp;[Getting Started](http://www.octoparse.com/Tutorial)&nbsp;&nbsp;&nbsp;[Download](http://www.octoparse.com/download/)
+### [Website](http://www.octoparse.com/)&nbsp;&nbsp;&nbsp;[Getting Started](http://www.octoparse.com/Tutorial)&nbsp;&nbsp;&nbsp;[Download](http://www.octoparse.com/download/) &nbsp;&nbsp;&nbsp;[Contact Us](http://m.me/Octoparse) 
 
 ![image](http://www.octoparse.com/media/2325/octoparse.jpg)
 
-## Collect Data from The Web
+## [Collect Data from The Web](http://www.octoparse.com/download/)&nbsp;&nbsp;&nbsp;
 If you can use a web browser, you can use Octoparse.Crawlers run in Octoparse are determined by the rules configured. The extraction rule would tell Octoparse: which website is to be open; where is the data you plan to crawl; what kind of data you want, etc.
 
 Octoparse simulates web browsing behavior such as opening a web page, logging into an account, entering a text, pointing-and-clicking the web element, etc. Our tool allows users to easily get data by clicking the information in the built in browser.
@@ -45,5 +45,10 @@ Store the data Octoparse extracts on our cloud platform. Or export the data in a
 - TXT
 - Database(MySQL,SQLServer,Oracle)
 
-
-
+## Links
+- [Website](http://www.octoparse.com/)
+- [Facebook Page](https://www.facebook.com/Octoparse/)
+- [Facebook group](https://www.facebook.com/groups/1700643603550408/)
+- [Twitter](https://twitter.com/Octoparse)
+- [G+](https://plus.google.com/u/0/106959685400674392220/posts)
+- [Youtube chanel](https://www.youtube.com/channel/UCweDWm1QY2G67SDAKX7nreg)
