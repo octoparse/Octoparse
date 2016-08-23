@@ -7,11 +7,11 @@ Octoparse -- A free client-side Windows web scraping software that turns unstruc
 ![image](http://www.octoparse.com/media/2325/octoparse.jpg)
 
 ## [Collect Data from The Web](http://www.octoparse.com/download/)&nbsp;&nbsp;&nbsp;
-If you can use a web browser, you can use Octoparse.Crawlers run in Octoparse are determined by the rules configured. The extraction rule would tell Octoparse: which website is to be open; where is the data you plan to crawl; what kind of data you want, etc.
+If you can use a web browser, you can use Octoparse.Crawlers run in Octoparse are determined by the [rules](http://www.octoparse.com/blog/what-is-configuration-rule-in-octoparse/) configured. The extraction rule would tell Octoparse: which website is to be open; where is the data you plan to crawl; what kind of data you want, etc.
 
 Octoparse simulates web browsing behavior such as opening a web page, logging into an account, entering a text, pointing-and-clicking the web element, etc. Our tool allows users to easily get data by clicking the information in the built in browser.
 ![image](http://www.octoparse.com/media/1924/%E5%9B%BE%E7%89%8725.png)
-## Why use Octoparse
+## [Why use Octoparse](http://www.octoparse.com/product/)&nbsp;&nbsp;&nbsp;
 
 ### Point-and-Click Interface 
 - Simply point and click web data
@@ -30,7 +30,7 @@ Octoparse simulates web browsing behavior such as opening a web page, logging in
 - Built-in XPath tool
 - Built-in RegEx tool
 
-### Cloud Service
+### [Cloud Service](http://www.octoparse.com/pricing/)
 - Extract data using cloud servers 24/7
 - Extract and store your data in the cloud platform
 - Automatic IP rotation  -- Avoiding IP being blacklisted. 
